@@ -1,1 +1,2 @@
 # Sales-Trend-Analysis-Using-Aggregation
+In this task, I analyzed monthly revenue and order volume using a synthetic online retail dataset. I used SQL queries to extract month and year from order dates, calculate total revenue (quantity × price), and count unique customer orders. The analysis also included top revenue-generating months, best-performing cities, and sales trends by product category and gender. This task helped me strengthen my skills in SQL aggregations, grouping, date functions, and handling missing values in real-world sales data.
